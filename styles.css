@@ -1,10 +1,11 @@
 body {
     font-family: Arial, sans-serif;
-    Color:#333;
+    Color: #333;
     background-color: #f9f9f9;
     margin: 0;
     padding: 0;
     line-height: 1.6;
+    align-items: center;
 }
 
 header {
@@ -32,6 +33,7 @@ main {
     padding: 20px;
     max-width: 800px;
     margin: 20px 0;
+    text-align: center;
 }
 
 footer {
@@ -49,7 +51,7 @@ p {
 }
 
 a {
-    color:#4CAF50;
+    color: #4CAF50;
     text-decoration: none;
 }
 
@@ -66,4 +68,3 @@ main a[href^="mailto:"] {
     color: #ff5722;
     font-weight: bold;
 }
-
